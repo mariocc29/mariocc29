@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mario Contreras<br><br>Seasoned Systems Engineer turned Software Developer FULL-STACK, weaving 18+ years of expertise into the fabric of applications.<br><br>💬 Ask me about PHP, Python & Ruby<br>📫 How to reach me mariocc29@gmail.com<br>🙈 Lost old repo, sayonara!: [malfoc](https://github.com/malfoc)
+Hi 👋, I'm Mario Contreras<br><br>Seasoned Systems Engineer turned Software Developer FULL-STACK, crafting high-quality applications with expertise.<br><br>💬 Ask me about PHP, Python & Ruby<br>📫 How to reach me mariocc29@gmail.com<br>🙈 Lost old repo, sayonara!: [malfoc](https://github.com/malfoc)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-contreras-340456187) 
