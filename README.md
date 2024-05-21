@@ -21,7 +21,7 @@ Hi 👋, I'm Mario Contreras<br><br>Seasoned Systems Engineer turned Software De
 ![Angular](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=flat)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)
 
 ## 🛠️ Backend Frameworks & Tools:
